@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Викуп авто Львів дорого | 30 хв</title>
+
+<meta name="description" content="Терміновий викуп авто у Львові та області. Гроші одразу. Пиши в Instagram або телефонуй">
+
+<style>
+body {margin:0;font-family:Arial;background:#f5f5f5;}
+header {
+  background:url('https://images.unsplash.com/photo-1511919884226-fd3cad34687c') center/cover;
+  color:white;text-align:center;padding:100px 20px;
+}
+h1 {font-size:38px;}
+.btn {
+  display:block;
+  max-width:300px;
+  margin:10px auto;
+  padding:15px;
+  background:#ff0000;
+  color:white;
+  text-decoration:none;
+  border-radius:6px;
+}
+.phone {font-size:22px;margin-top:10px;}
+
+section {padding:60px 20px;text-align:center;}
+
+.features {display:flex;flex-wrap:wrap;justify-content:center;}
+.box {
+  background:white;
+  margin:10px;
+  padding:20px;
+  width:260px;
+  border-radius:8px;
+}
+
+footer {
+  background:#111;
+  color:white;
+  padding:30px;
+  text-align:center;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Викуп авто у Львові</h1>
+  <p>Платимо одразу • Будь-який стан • Оцінка за 5 хв</p>
+
+  <a href="tel:+380952108972" class="btn">📞 Подзвонити</a>
+
+  <a href="https://ig.me/m/sellcar_lviv" class="btn">
+    📩 Написати в Instagram
+  </a>
+
+  <div class="phone">📞 +380952108972</div>
+</header>
+
+<section>
+  <h2>Чому обирають нас</h2>
+  <div class="features">
+    <div class="box">💰 Гроші одразу</div>
+    <div class="box">⚡ Викуп за 30 хв</div>
+    <div class="box">🚗 Будь-який стан</div>
+    <div class="box">📄 Переоформлення</div>
+  </div>
+</section>
+
+<section>
+  <h2>Купуємо авто</h2>
+  <p>✔ Після ДТП<br>✔ Нерозмитнені<br>✔ Кредитні<br>✔ Не на ходу</p>
+</section>
+
+<section>
+  <h2>Як продати авто</h2>
+  <p>1. Пишеш в Instagram<br>
+     2. Скидаєш фото авто<br>
+     3. Отримуєш ціну</p>
+</section>
+
+<footer>
+  <p>📞 +380952108972</p>
+  <p>Львів та область</p>
+</footer>
+
+</body>
+</html>
